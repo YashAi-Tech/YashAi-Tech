@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm **Yash**, a Website Designer, UI/UX Designer, and Vibe Coder based in India.
+I'm **Yash**, a Website Designer, UI/UX Designer, and Front-End Developer bases in India.
 
 I love turning ideas into modern websites, user-friendly interfaces, and digital experiences that feel simple, fast, and effortless.
 
