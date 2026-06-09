@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋,
+<h1 align="center">Hey there 👋,
   
   I'm Yash Tonde</h1>
 
