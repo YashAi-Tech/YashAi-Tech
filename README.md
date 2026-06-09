@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋,
   
-  I'm Yash Tonde</h1>
+  I'm Yash </h1>
 
 <h3 align="center">
 
