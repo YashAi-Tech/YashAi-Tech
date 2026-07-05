@@ -12,7 +12,3 @@ Outside of design and development, you'll find me exploring AI tools, learning n
 - ⚡ I enjoy AI-powered development workflows.
 - 💻 Building websites from scratch is fun.
 - 🚀 Always learning something new.
-
-### Contact
-
-📧 yashtonde.developer@gmail.com
