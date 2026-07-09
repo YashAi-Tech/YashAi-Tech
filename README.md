@@ -63,17 +63,14 @@ I enjoy transforming ideas into beautiful interfaces while writing clean, mainta
 * Performance Optimization
 
 ---
+## 📊 **GITHUB DOMINANCE**
 
-## 🎯 Goals
+<div align="center">
 
-* Build meaningful and polished web experiences
-* Improve my design and development skills every day
-* Learn new technologies consistently
-* Contribute more to open source
-* Keep creating, experimenting, and growing
-
----
-
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=YashAi-Tech&show_icons=true&border_radius=15&theme=graywhite&hide_border=false&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YashAi-Tech&border_radius=15&layout=compact&theme=graywhite&hide_border=false&langs_count=8" height="200"/>
+</p>
 
 
 
