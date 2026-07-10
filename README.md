@@ -23,36 +23,6 @@ I enjoy transforming ideas into beautiful interfaces while writing clean, mainta
 * 🌱 Continuously learn new technologies and improve my skills
 * 🔥 Contribute to the open-source community
 
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Design
-
-* Figma
-* UI Design
-* UX Research
-* Wireframing
-* Prototyping
-* Design Systems
-* Responsive Design
-
-### 💻 Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React
-* Tailwind CSS
-
-### ⚙️ Tools
-
-* Git
-* GitHub
-* VS Code
-* Vercel
-
----
 
 ## 🌱 Currently Learning
 
